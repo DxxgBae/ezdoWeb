@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ezdoWeb/static/css/main.eb2ca2d3.css",
-    "main.js": "/ezdoWeb/static/js/main.80394afe.js",
+    "main.css": "/ezdoWeb/static/css/main.46d50d1e.css",
+    "main.js": "/ezdoWeb/static/js/main.d48f57ba.js",
     "static/js/453.9c8dfeed.chunk.js": "/ezdoWeb/static/js/453.9c8dfeed.chunk.js",
     "index.html": "/ezdoWeb/index.html",
-    "main.eb2ca2d3.css.map": "/ezdoWeb/static/css/main.eb2ca2d3.css.map",
-    "main.80394afe.js.map": "/ezdoWeb/static/js/main.80394afe.js.map",
+    "main.46d50d1e.css.map": "/ezdoWeb/static/css/main.46d50d1e.css.map",
+    "main.d48f57ba.js.map": "/ezdoWeb/static/js/main.d48f57ba.js.map",
     "453.9c8dfeed.chunk.js.map": "/ezdoWeb/static/js/453.9c8dfeed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb2ca2d3.css",
-    "static/js/main.80394afe.js"
+    "static/css/main.46d50d1e.css",
+    "static/js/main.d48f57ba.js"
   ]
 }
